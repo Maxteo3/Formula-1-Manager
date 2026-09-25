@@ -1,0 +1,9 @@
+F1 manaher es un sistema de simulacion y gestion donde el usuario asume el rol del director del equipo.
+Permite administrar presupuestos, contratrar pilotos, gestionar el rendimiento de los monoplazas y simular los resultados de los grandes premios
+tambien cada piloto tiene atrubutos de carisma, potencial, marketing, dinero que influira en su rendimiento
+Habra pratrocinadores que te van a poner objetivos a lo largo de la temporada 
+tenes que estar contento con la directiva para seguir estando en el equipo para la proxima temporada
+seran 22 pilotos 11 equipos 
+24 carreras por año, la maxima cantidad de puntos que se puede conseguir al ganar el gran premio es de 25 puntos por carreras
+Limite presupuestario 
+la dificultad habra: Baja, Media, Alta
