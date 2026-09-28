@@ -1,0 +1,22 @@
+Temporada: 2026
+grandes premios: 24
+pilotos: 22
+escuderias: 11
+limite presupuesto: 500.000.000
+maximo piloto por escuderia: 2
+puntos: 
+1: 25
+2: 18
+3: 15
+4: 12
+5: 10
+6: 8
+7: 6
+8: 4
+9: 2
+10: 1
+Desgastes de neumaticos: activado
+LLuvia; activado
+accidentes: activado
+tutorial: si
+
